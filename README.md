@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu Khapra
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning basics of cybersecurity on trhackme.com
+- 🌱 I’m currently learning the basics of cybersecurity on tryhackme.com
 - 💞️ I’m looking to collaborate on any interesting idea, super bored. 🙃  
 - 📫 How to reach me : bhanukhapra07@gmail.com (Please mention GitHub in the subject)
 
