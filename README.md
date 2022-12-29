@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhanu Khapra
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning the basics of cybersecurity on tryhackme.com
-- 💞️ I’m looking to collaborate on any interesting idea. 🙃  
+- 💞️ I’m looking to collaborate on a discord bot.
 - 📫 How to reach me : bhanukhapra07@gmail.com (Please mention GitHub in the subject)
 
 <!---
