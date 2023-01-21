@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the basics of cybersecurity on tryhackme.com
 - 💡 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me : bhanukhapra07@gmail.com (Please mention GitHub in the subject)
-- ![Visitor Count](https://profile-counter.glitch.me/{Khapra}/count.svg)  
+- [Visitor Count](https://profile-counter.glitch.me/{Khapra}/count.svg)  
 
 [![Khapra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khapra)](https://github.com/anuraghazra/github-readme-stats)
 
