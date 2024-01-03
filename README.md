@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhanu Khapra
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning the basics of cybersecurity on tryhackme.com
 - 💡 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me : bhanukhapra07@gmail.com (Please mention GitHub in the subject)
 - Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Khapra}/count.svg)  
