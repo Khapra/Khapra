@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech.
 - 💡 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me : bhanukhapra07@gmail.com (Please mention GitHub in the subject)
-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Khapra}/count.svg)  
+- Visitor Count: ![](https://komarev.com/ghpvc/?username=khapra&color=brightgreen)
 
 [![Khapra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khapra)](https://github.com/anuraghazra/github-readme-stats)
 
